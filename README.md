@@ -49,23 +49,10 @@
         </tr>
         <tr>
             <td>02</td>
-            <td><a href="Carnaval">Site melhores blocos de carnaval</a></td>
-            <td>24/02/23</td>
-            <td align="center"><a href="Carnaval"><img width="300px" src="Carnaval/.github/preview.jpg" /></a></td>
+            <td><a href="galeria-sneakers">Galeria Sneakers</a></td>
+            <td>16/10/23</td>
+            <td align="center"><a href="galeria-sneakers"><img width="300px" src="galeria-sneakers/.github/preview.png" /></a></td>
         </tr>
-        <tr>
-            <td>03</td>
-            <td><a href="cronometro">Cronômetro</a></td>
-            <td>08/03/23</td>
-            <td align="center"><a href="cronometro"><img width="300px" src="cronometro/.github/preview.png" /></a></td>
-        </tr>
-        <tr>
-            <td>04</td>
-            <td><a href="Tempo">Tempo</a></td>
-            <td>17/03/23</td>
-            <td align="center"><a href="Tempo"><img width="300px" src="Tempo/.github/preview.png" /></a></td>
-        </tr>
-       
     </tbody>
 
 </table>
