@@ -45,7 +45,7 @@
             <td><a href="Mario-Bros">Site do filme Mario Bros</a></td>
             <td>19/10/23</td>
             <td align="center">
-            <a href="chat-msg"><img width="300px" src="pagina super mario bros/.github/preview.png" /></a></td>
+            <a href="chat-msg"><img width="300px" src="Mario-bros/.github/preview.png" /></a></td>
         </tr>
         <tr>
             <td>02</td>
